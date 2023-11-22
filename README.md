@@ -2,6 +2,8 @@ My Personal Expo-Router Boilerplate
 
 When I start any expo project, most of the initial structures and libaries which need to be install and code are always same, so to make it less time consuming and easy. I create this boilerplate.
 
+```git clone https://github.com/kaissaroj/expo-router-boilerplate.git <project_name>```
+
 Packages Included:
 
     "@tanstack/react-query": "^5.8.4",
